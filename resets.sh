@@ -1,0 +1,1 @@
+git reset --soft origin/$1

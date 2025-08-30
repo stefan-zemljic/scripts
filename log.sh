@@ -1,0 +1,1 @@
+git log --pretty=format:'%C(auto)%h %C(blue)%an %C(green)%ad %C(reset)%s' --date=iso-strict
